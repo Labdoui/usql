@@ -1,0 +1,124 @@
+{
+    "scripts": [
+        {
+            "path": "searchservice.usql",
+            "account": "allosanalytics",
+            "database": "master",
+            "schema": "dbo",
+            "optionalSettings": {
+                "runtimeVersion": "",
+                "priority": "",
+                "degreeOfParallelism": "",
+                "jobInformationOutputPath": ""
+            }
+        },
+        {
+            "path": "generated\\cleaning.usql",
+            "account": "allosanalytics",
+            "database": "master",
+            "schema": "dbo",
+            "optionalSettings": {
+                "runtimeVersion": "",
+                "priority": "",
+                "degreeOfParallelism": "",
+                "jobInformationOutputPath": ""
+            }
+        },
+        {
+            "path": "generated\\ordering.usql",
+            "account": "allosanalytics",
+            "database": "master",
+            "schema": "dbo",
+            "optionalSettings": {
+                "runtimeVersion": "",
+                "priority": "",
+                "degreeOfParallelism": "",
+                "jobInformationOutputPath": ""
+            }
+        },
+        {
+            "path": "generated\\createtable.usql",
+            "account": "allosanalytics",
+            "database": "master",
+            "schema": "dbo",
+            "optionalSettings": {
+                "runtimeVersion": "",
+                "priority": "",
+                "degreeOfParallelism": "",
+                "jobInformationOutputPath": ""
+            }
+        },
+        {
+            "path": "generated\\filetable.usql",
+            "account": "allosanalytics",
+            "database": "master",
+            "schema": "dbo",
+            "optionalSettings": {
+                "runtimeVersion": "",
+                "priority": "",
+                "degreeOfParallelism": "",
+                "jobInformationOutputPath": ""
+            }
+        },
+        {
+            "path": "generated\\generated\\createtable.usql",
+            "account": "allosanalytics",
+            "database": "master",
+            "schema": "dbo",
+            "optionalSettings": {
+                "runtimeVersion": "",
+                "priority": "",
+                "degreeOfParallelism": "",
+                "jobInformationOutputPath": ""
+            }
+        },
+        {
+            "path": "generated\\generated\\filetable.usql",
+            "account": "allosanalytics",
+            "database": "master",
+            "schema": "dbo",
+            "optionalSettings": {
+                "runtimeVersion": "",
+                "priority": "",
+                "degreeOfParallelism": "",
+                "jobInformationOutputPath": ""
+            }
+        },
+        {
+            "path": "generated\\searchservice.usql",
+            "account": "allosanalytics",
+            "database": "master",
+            "schema": "dbo",
+            "optionalSettings": {
+                "runtimeVersion": "",
+                "priority": "",
+                "degreeOfParallelism": "",
+                "jobInformationOutputPath": ""
+            }
+        },
+        {
+            "path": "generated\\generated\\filtring.usql",
+            "account": "allosanalytics",
+            "database": "master",
+            "schema": "dbo",
+            "optionalSettings": {
+                "runtimeVersion": "",
+                "priority": "",
+                "degreeOfParallelism": "",
+                "jobInformationOutputPath": ""
+            }
+        },
+        {
+            "path": "pythonsample.usql",
+            "account": "allosanalytics",
+            "database": "master",
+            "schema": "dbo",
+            "optionalSettings": {
+                "runtimeVersion": "",
+                "priority": "",
+                "degreeOfParallelism": "",
+                "jobInformationOutputPath": ""
+            }
+        }
+    ]
+}

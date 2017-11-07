@@ -1,0 +1,40 @@
+{
+    "scripts": [
+        {
+            "path": "createtable.usql",
+            "account": "allosanalytics",
+            "database": "master",
+            "schema": "dbo",
+            "optionalSettings": {
+                "runtimeVersion": "",
+                "priority": "",
+                "degreeOfParallelism": "",
+                "jobInformationOutputPath": ""
+            }
+        },
+        {
+            "path": "filetable.usql",
+            "account": "allosanalytics",
+            "database": "master",
+            "schema": "dbo",
+            "optionalSettings": {
+                "runtimeVersion": "",
+                "priority": "",
+                "degreeOfParallelism": "",
+                "jobInformationOutputPath": ""
+            }
+        },
+        {
+            "path": "pythonsample.usql",
+            "account": "allosanalytics",
+            "database": "master",
+            "schema": "dbo",
+            "optionalSettings": {
+                "runtimeVersion": "",
+                "priority": "",
+                "degreeOfParallelism": "",
+                "jobInformationOutputPath": ""
+            }
+        }
+    ]
+}
